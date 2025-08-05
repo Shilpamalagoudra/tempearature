@@ -1,0 +1,27 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    text-align: center;
+    padding: 50px;
+}
+h1{
+    color: black;
+}
+input,select,button{
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid violet;
+}
+button{
+    background-color: aqua;
+    color: rgb(138, 189, 27);
+    border: none;
+
+}
+#result{
+    margin-top: 20px;
+    font-size: 20px;
+    color: brown;
+}
